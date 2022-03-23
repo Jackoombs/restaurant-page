@@ -1,2 +1,2 @@
 # restaurant-page
-It's a Restaurant page
+It's a Restaurant Page!
